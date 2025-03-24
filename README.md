@@ -66,6 +66,9 @@ git clone https://github.com/new92/InstaTools
 cd InstaTools
 python -m pip install -r requirements.txt
 python3 cookies.py
+python cookies.py -c  /Users/bhavesh/Library/Application\ Support/Firefox/Profiles/pk4unrn7.default-release/cookies.sqlite
+# /Users/bhavesh/Library/Application Support/Firefox/Profiles/pk4unrn7.default-release/cookies.sqlite
+# /Users/bhavesh/.config/instaloader/session-midoriya1107
 cd <THE FOLDER IN WHICH IS LOCATED THE SCRIPT YOU WANT TO USE. Example: cd Mutuals>
 python3 <THE NAME OF THE SCRIPT. Example: python3 mutuals.py>.py
 ```
@@ -127,3 +130,21 @@ Answer ➡️ This error can be resolved simply by logging in to your account fr
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=new92/InstaTools&type=Date)](https://star-history.com/#new92/InstaTools&Date)
+
+
+## Which Scripts to use 
+Name	description: 
+Chronos ⌛	Chronos is a tool that analyzes how often a user posts on Instagram.
+Delta 📡	Delta efficiently extracts reels from Instagram accounts, simplifying content gathering for creators, marketers, and enthusiasts by using post shortcodes from a text file.
+Hermes 🪽	Hermes analyzes Instagram likes for a specific post, extracting and analyzing user profiles based on their engagement.
+Hunter 🔫	Hunter tracks ghost followers on Instagram accounts, identifying users who follow but don't engage with content.
+IsVer 🔭	IsVer attempts to identify verified accounts a user follows, offering insights into their network.
+Kratos 🥷	Kratos identifies and targets Instagram accounts owned by gay individuals using advanced search algorithms and a user-friendly interface. It's ideal for research, marketing, and social analysis. It offers insights into demographics and engagement trends while emphasizing ethical use.
+Mutuals 🧙	Mutuals identifies mutual followers and followings between 2 Instagram accounts, facilitating connection and insight into shared networks effortlessly.
+Poirot 🕵️	Poirot elegantly extracts valuable information from Instagram accounts using Instagram's GraphQL data query language.
+Researcher 🔍	Researcher uncovers the possible geographic locations of a user's followers on Instagram, providing valuable insights into audience demographics for marketers, influencers, and curious users.
+Spammer 🧨	Spammer automates sending multiple messages to another user's Instagram inbox.
+Sphinx 🔬	Sphinx swiftly identifies and extracts offensive comments from Instagram posts using advanced algorithms, facilitating efficient moderation of online discourse.
+ToolZ 🕵	Toolz helps monitor the unfollowers of a user on Instagram, keeping the user informed about changes in their followers for effective online presence management.
+Tracker 👻	Tracker monitors and records changes in Instagram followers and followings, providing valuable insights for managing online presence.
+Zeus ⚡	Zeus identifies mutual likers, commenters, and comments across specified Instagram posts, enhancing social media analysis with precise insights into user engagement patterns.
